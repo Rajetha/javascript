@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(161, 156, 156);
+    text-align: center;
+    border-style: double;
+    
+}
+form{
+    background-color: rgb(226, 43, 150);
+    font-size: 30px;
+    border-style: groove;
+}
